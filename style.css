@@ -266,22 +266,13 @@ td, th {
         padding: 1em;
         font-size: 18px;
     }
+
+    section.beneficios {
+        padding: 1em;
+    }
  
     .conteudo-beneficios {
         width: auto;
-    }
-
-    .mapa-conteudo {
-        width: auto;
-    }
-
-    .mapa {
-        padding: 0;
-    }
-
-    .video {
-        width: auto;
-        margin: 0;
     }
 
     .lista-beneficios {
@@ -298,28 +289,30 @@ td, th {
     }
 
     .produtos {
-        width: auto;  
+        width: auto;
     }
 
     .produtos li {
         width: 100vw;
-        display: flexbox;
-        justify-content: center;
         margin: 0;
     }
 
-    .produto-descricao {
+    .mapa {
+        padding: 0;
+    }
+
+    .mapa-conteudo {
         width: auto;
-        padding: auto;
+    }
+
+    .video {
+        width: auto;
+        margin: 0;
     }
 
     .enviar {
         font-size: 15px;
         text-align: center;
         margin: 20px 0 0 29px;
-    }
-
-    section.beneficios {
-        padding: 1em;
     }
 }
